@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flammendeingo-85
+- 👋 Hi, I’m Ravi Banwari a.k.a. @Flammendeingo-85
 - 👀 I’m interested in coding, Anime, Manga, Gaming(xbox - Flammendeingo85)
 - 🌱 I’m currently learning: Frontend Engineer Career Path(codecademy.com) - HTML/CSS/FLEXBOX/GRID/JAVASCRIPT/REACT/REDUX/etc..
 - 💞️ I’m looking to collaborate on nothing yet...
