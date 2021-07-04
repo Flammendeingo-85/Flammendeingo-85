@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ravi Banwari a.k.a. @Flammendeingo-85
-- 👀 I’m interested in coding, Anime, Manga, Gaming(xbox - Flammendeingo85)
+- 👀 I’m interested in UI/UX, coding, Anime, Manga, Gaming(xbox - Flammendeingo85)
 - 🌱 I’m currently learning:  I'm a UI/UX Designer and learning: HTML/CSS/FLEXBOX/GRID/RESPONSIVE DESIGN/MOBILE FIRST/HCI/GAMIFICATION/DESIGN SYSTEMS/
 - 💞️ I’m looking to collaborate on nothing yet...
 - 📫 How to reach me...
